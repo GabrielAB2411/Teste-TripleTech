@@ -1,18 +1,10 @@
 <h1 align="center"> 
 <br>
-    <img src="./img/title.JPG" width="270">
+    <img src="./img/titulo.JPG" width="270">
 <br>
 <br>
 Teste técnico Triple Tech
 </h1>
-
-<p align="center"> Visualização da tela: </p>
-
-<div align="center">
-    <img src="./img/tela.JPG" height="280">
-</div>
-<hr />
-<br>
 
 ## :information_source: Sobre
 
