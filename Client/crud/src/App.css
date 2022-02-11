@@ -1,0 +1,50 @@
+.app-container{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.buttons-container{
+  padding: 10px 20px;
+  border: 3px solid black;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+  background-color: rgb(225, 225, 251);
+}
+
+.title{
+  margin-bottom: 20px;
+  font-family: monospace;
+}
+
+.btn-agendar{
+  margin-bottom: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  font-family: monospace;
+  font-weight: bold;
+  width: 177px;
+  height: 30px;
+}
+
+.btn-agendar:hover{
+  background-color: rgb(157, 255, 190);
+  cursor: pointer;
+}
+
+.btn-atualizar{
+  margin-bottom: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: white;
+  font-family: monospace;
+  font-weight: bold;
+  height: 30px;
+}
+
+.btn-atualizar:hover{
+  background-color: rgb(148, 243, 255);
+  cursor: pointer;
+}
