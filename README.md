@@ -20,7 +20,7 @@ A aplicação criada tem como função principal, ler o arquivo "AdicionarAgenda
 
 <br>
 
-- Ao clicar no botão agendar o portal fará o upload dos dados da planilha, e se não houver agendamentos em co,flito de horário, exibirá a query do banco de dados para cada registro realizado no console da aplicação.
+- Ao clicar no botão agendar o portal fará o upload dos dados da planilha, e se não houver agendamentos em conflito de horário, exibirá a query do banco de dados para cada registro realizado no console da aplicação.
 
 <br>
 
